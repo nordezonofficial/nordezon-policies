@@ -147,7 +147,7 @@ The Platform is for users **18+ only**.
 
 ## 9. Third-Party Links
 
-Brands may link to external websites (e.g., Instagram, Shopify).
+Brands may link to external websites (e.g., Instagram, Facebook).
 
 > Nordezon is not responsible for those websites.
 
@@ -157,10 +157,8 @@ Brands may link to external websites (e.g., Instagram, Shopify).
 
 This policy is governed by applicable laws.
 
----
 
 ## 11. Contact
 
-* Email: `teamnordezon@gmail.com`
-* Website: [https://www.nordezon.ca](https://www.nordezon.ca)
-
+* Email: `nordezonofficial@gmail.com`
+* Website: [https://www.nordezon.com](https://www.nordezon.com)
